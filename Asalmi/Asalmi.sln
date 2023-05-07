@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asalmi", "Asalmi.csproj", "{958F4E36-96DE-41CB-AD55-64422E32B36C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{958F4E36-96DE-41CB-AD55-64422E32B36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958F4E36-96DE-41CB-AD55-64422E32B36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958F4E36-96DE-41CB-AD55-64422E32B36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958F4E36-96DE-41CB-AD55-64422E32B36C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5E4D557-C7C5-415B-86A4-11DA461A3C91}
+	EndGlobalSection
+EndGlobal

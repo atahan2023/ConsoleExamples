@@ -1,0 +1,15 @@
+/Users/atahan/Projects/Asalmi/obj/Debug/net7.0/Asalmi.csproj.AssemblyReference.cache
+/Users/atahan/Projects/Asalmi/obj/Debug/net7.0/Asalmi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/atahan/Projects/Asalmi/obj/Debug/net7.0/Asalmi.AssemblyInfoInputs.cache
+/Users/atahan/Projects/Asalmi/obj/Debug/net7.0/Asalmi.AssemblyInfo.cs
+/Users/atahan/Projects/Asalmi/obj/Debug/net7.0/Asalmi.csproj.CoreCompileInputs.cache
+/Users/atahan/Projects/Asalmi/bin/Debug/net7.0/Asalmi
+/Users/atahan/Projects/Asalmi/bin/Debug/net7.0/Asalmi.deps.json
+/Users/atahan/Projects/Asalmi/bin/Debug/net7.0/Asalmi.runtimeconfig.json
+/Users/atahan/Projects/Asalmi/bin/Debug/net7.0/Asalmi.dll
+/Users/atahan/Projects/Asalmi/bin/Debug/net7.0/Asalmi.pdb
+/Users/atahan/Projects/Asalmi/obj/Debug/net7.0/Asalmi.dll
+/Users/atahan/Projects/Asalmi/obj/Debug/net7.0/refint/Asalmi.dll
+/Users/atahan/Projects/Asalmi/obj/Debug/net7.0/Asalmi.pdb
+/Users/atahan/Projects/Asalmi/obj/Debug/net7.0/Asalmi.genruntimeconfig.cache
+/Users/atahan/Projects/Asalmi/obj/Debug/net7.0/ref/Asalmi.dll
