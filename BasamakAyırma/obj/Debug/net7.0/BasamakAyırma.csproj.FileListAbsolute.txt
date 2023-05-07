@@ -1,0 +1,15 @@
+/Users/atahan/Projects/BasamakAyırma/obj/Debug/net7.0/BasamakAyırma.csproj.AssemblyReference.cache
+/Users/atahan/Projects/BasamakAyırma/obj/Debug/net7.0/BasamakAyırma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/atahan/Projects/BasamakAyırma/obj/Debug/net7.0/BasamakAyırma.AssemblyInfoInputs.cache
+/Users/atahan/Projects/BasamakAyırma/obj/Debug/net7.0/BasamakAyırma.AssemblyInfo.cs
+/Users/atahan/Projects/BasamakAyırma/obj/Debug/net7.0/BasamakAyırma.csproj.CoreCompileInputs.cache
+/Users/atahan/Projects/BasamakAyırma/bin/Debug/net7.0/BasamakAyırma
+/Users/atahan/Projects/BasamakAyırma/bin/Debug/net7.0/BasamakAyırma.deps.json
+/Users/atahan/Projects/BasamakAyırma/bin/Debug/net7.0/BasamakAyırma.runtimeconfig.json
+/Users/atahan/Projects/BasamakAyırma/bin/Debug/net7.0/BasamakAyırma.dll
+/Users/atahan/Projects/BasamakAyırma/bin/Debug/net7.0/BasamakAyırma.pdb
+/Users/atahan/Projects/BasamakAyırma/obj/Debug/net7.0/BasamakAyırma.dll
+/Users/atahan/Projects/BasamakAyırma/obj/Debug/net7.0/refint/BasamakAyırma.dll
+/Users/atahan/Projects/BasamakAyırma/obj/Debug/net7.0/BasamakAyırma.pdb
+/Users/atahan/Projects/BasamakAyırma/obj/Debug/net7.0/BasamakAyırma.genruntimeconfig.cache
+/Users/atahan/Projects/BasamakAyırma/obj/Debug/net7.0/ref/BasamakAyırma.dll
