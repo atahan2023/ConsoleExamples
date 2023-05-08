@@ -1,0 +1,15 @@
+C:\Kurs\İkiSayıToplamı\obj\Debug\net6.0\İkiSayıToplamı.csproj.AssemblyReference.cache
+C:\Kurs\İkiSayıToplamı\obj\Debug\net6.0\İkiSayıToplamı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kurs\İkiSayıToplamı\obj\Debug\net6.0\İkiSayıToplamı.AssemblyInfoInputs.cache
+C:\Kurs\İkiSayıToplamı\obj\Debug\net6.0\İkiSayıToplamı.AssemblyInfo.cs
+C:\Kurs\İkiSayıToplamı\obj\Debug\net6.0\İkiSayıToplamı.csproj.CoreCompileInputs.cache
+C:\Kurs\İkiSayıToplamı\bin\Debug\net6.0\İkiSayıToplamı.exe
+C:\Kurs\İkiSayıToplamı\bin\Debug\net6.0\İkiSayıToplamı.deps.json
+C:\Kurs\İkiSayıToplamı\bin\Debug\net6.0\İkiSayıToplamı.runtimeconfig.json
+C:\Kurs\İkiSayıToplamı\bin\Debug\net6.0\İkiSayıToplamı.dll
+C:\Kurs\İkiSayıToplamı\bin\Debug\net6.0\İkiSayıToplamı.pdb
+C:\Kurs\İkiSayıToplamı\obj\Debug\net6.0\İkiSayıToplamı.dll
+C:\Kurs\İkiSayıToplamı\obj\Debug\net6.0\refint\İkiSayıToplamı.dll
+C:\Kurs\İkiSayıToplamı\obj\Debug\net6.0\İkiSayıToplamı.pdb
+C:\Kurs\İkiSayıToplamı\obj\Debug\net6.0\İkiSayıToplamı.genruntimeconfig.cache
+C:\Kurs\İkiSayıToplamı\obj\Debug\net6.0\ref\İkiSayıToplamı.dll
