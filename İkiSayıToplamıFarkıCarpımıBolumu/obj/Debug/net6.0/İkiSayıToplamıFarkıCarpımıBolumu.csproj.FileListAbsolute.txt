@@ -1,0 +1,15 @@
+C:\Kurs\İkiSayıToplamıFarkıCarpımıBolumu\bin\Debug\net6.0\İkiSayıToplamıFarkıCarpımıBolumu.exe
+C:\Kurs\İkiSayıToplamıFarkıCarpımıBolumu\bin\Debug\net6.0\İkiSayıToplamıFarkıCarpımıBolumu.deps.json
+C:\Kurs\İkiSayıToplamıFarkıCarpımıBolumu\bin\Debug\net6.0\İkiSayıToplamıFarkıCarpımıBolumu.runtimeconfig.json
+C:\Kurs\İkiSayıToplamıFarkıCarpımıBolumu\bin\Debug\net6.0\İkiSayıToplamıFarkıCarpımıBolumu.dll
+C:\Kurs\İkiSayıToplamıFarkıCarpımıBolumu\bin\Debug\net6.0\İkiSayıToplamıFarkıCarpımıBolumu.pdb
+C:\Kurs\İkiSayıToplamıFarkıCarpımıBolumu\obj\Debug\net6.0\İkiSayıToplamıFarkıCarpımıBolumu.csproj.AssemblyReference.cache
+C:\Kurs\İkiSayıToplamıFarkıCarpımıBolumu\obj\Debug\net6.0\İkiSayıToplamıFarkıCarpımıBolumu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kurs\İkiSayıToplamıFarkıCarpımıBolumu\obj\Debug\net6.0\İkiSayıToplamıFarkıCarpımıBolumu.AssemblyInfoInputs.cache
+C:\Kurs\İkiSayıToplamıFarkıCarpımıBolumu\obj\Debug\net6.0\İkiSayıToplamıFarkıCarpımıBolumu.AssemblyInfo.cs
+C:\Kurs\İkiSayıToplamıFarkıCarpımıBolumu\obj\Debug\net6.0\İkiSayıToplamıFarkıCarpımıBolumu.csproj.CoreCompileInputs.cache
+C:\Kurs\İkiSayıToplamıFarkıCarpımıBolumu\obj\Debug\net6.0\İkiSayıToplamıFarkıCarpımıBolumu.dll
+C:\Kurs\İkiSayıToplamıFarkıCarpımıBolumu\obj\Debug\net6.0\refint\İkiSayıToplamıFarkıCarpımıBolumu.dll
+C:\Kurs\İkiSayıToplamıFarkıCarpımıBolumu\obj\Debug\net6.0\İkiSayıToplamıFarkıCarpımıBolumu.pdb
+C:\Kurs\İkiSayıToplamıFarkıCarpımıBolumu\obj\Debug\net6.0\İkiSayıToplamıFarkıCarpımıBolumu.genruntimeconfig.cache
+C:\Kurs\İkiSayıToplamıFarkıCarpımıBolumu\obj\Debug\net6.0\ref\İkiSayıToplamıFarkıCarpımıBolumu.dll
